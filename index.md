@@ -1,18 +1,12 @@
 ### Alcune informazioni su di me:
 - Nome: Robert
-
 - Nazionalità: Russa-Rumena
-
 - Username: @disconnettersi
 
-### I miei Hobbies:
-- Guardare anime
-
-- Ascoltare musica
-
-- Praticare sport
-
-- Poco X3 NFC currently broken :(
+### My Hobbies:
+- Watching Anime
+- Listening to music
+- Practicing sport
 
 ### Are you looking for a translator for work or for a personal project? Well @disconnettersi is at your service.
 Beginner but reliable translator. Speak 5 languages and it's cheap!
