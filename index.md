@@ -1,7 +1,7 @@
 # disconnettersi.tk
 ### About me:
 - Name: Robert
-- Nationality: Russa-Rumena
+- Nationality: Russian-Romanian
 - Username: @disconnettersi
 
 ### My Hobbies:
