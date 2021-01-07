@@ -1,9 +1,9 @@
-## Disconnettersi
 ### Alcune informazioni su di me:
+- Nome: Robert
 
-Nome: Robert
-Nazionalità: Russa-Rumena
-Username: @disconnettersi
+- Nazionalità: Russa-Rumena
+
+- Username: @disconnettersi
 
 ### I miei Hobbies:
 - Guardare anime
@@ -25,5 +25,4 @@ Languages available for translation?
 - French 
 The best without the use of translators.
 
-PN:The price varies according to the duration and difficulty
-I'm accepting small jobs 
+PN: The price varies according to the duration and difficulty
